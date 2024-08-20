@@ -1,0 +1,10 @@
+Basic WebdriveIO functions: 
+1. url()
+2.pause()
+3.maximizeWindow()
+4.getTitle()
+5.getUrl()
+6.getwindowsHandle()
+7.back()
+8.foward()
+9.refresh()
